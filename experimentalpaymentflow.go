@@ -10,11 +10,11 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/fragment-dev/fragment-billing-go/internal/apijson"
-	"github.com/fragment-dev/fragment-billing-go/internal/requestconfig"
-	"github.com/fragment-dev/fragment-billing-go/option"
-	"github.com/fragment-dev/fragment-billing-go/packages/param"
-	"github.com/fragment-dev/fragment-billing-go/packages/respjson"
+	"github.com/fragment-dev/golang/internal/apijson"
+	"github.com/fragment-dev/golang/internal/requestconfig"
+	"github.com/fragment-dev/golang/option"
+	"github.com/fragment-dev/golang/packages/param"
+	"github.com/fragment-dev/golang/packages/respjson"
 )
 
 // Payment flow operations

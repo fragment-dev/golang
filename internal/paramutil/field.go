@@ -1,8 +1,8 @@
 package paramutil
 
 import (
-	"github.com/fragment-dev/fragment-billing-go/packages/param"
-	"github.com/fragment-dev/fragment-billing-go/packages/respjson"
+	"github.com/fragment-dev/golang/packages/param"
+	"github.com/fragment-dev/golang/packages/respjson"
 )
 
 func AddrIfPresent[T comparable](v param.Opt[T]) *T {

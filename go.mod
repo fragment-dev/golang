@@ -1,4 +1,4 @@
-module github.com/fragment-dev/fragment-billing-go
+module github.com/fragment-dev/golang
 
 go 1.22
 

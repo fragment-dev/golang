@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fragment-dev/fragment-billing-go"
-	"github.com/fragment-dev/fragment-billing-go/internal/testutil"
-	"github.com/fragment-dev/fragment-billing-go/option"
+	"github.com/fragment-dev/golang"
+	"github.com/fragment-dev/golang/internal/testutil"
+	"github.com/fragment-dev/golang/option"
 )
 
 func TestTransactionNewWithOptionalParams(t *testing.T) {

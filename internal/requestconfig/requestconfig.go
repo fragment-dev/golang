@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fragment-dev/fragment-billing-go/internal"
-	"github.com/fragment-dev/fragment-billing-go/internal/apierror"
-	"github.com/fragment-dev/fragment-billing-go/internal/apiform"
-	"github.com/fragment-dev/fragment-billing-go/internal/apiquery"
+	"github.com/fragment-dev/golang/internal"
+	"github.com/fragment-dev/golang/internal/apierror"
+	"github.com/fragment-dev/golang/internal/apiform"
+	"github.com/fragment-dev/golang/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
