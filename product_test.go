@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/fragment-go"
-	"github.com/stainless-sdks/fragment-go/internal/testutil"
-	"github.com/stainless-sdks/fragment-go/option"
+	"github.com/fragment-dev/fragment-billing-go"
+	"github.com/fragment-dev/fragment-billing-go/internal/testutil"
+	"github.com/fragment-dev/fragment-billing-go/option"
 )
 
 func TestProductNewWithOptionalParams(t *testing.T) {

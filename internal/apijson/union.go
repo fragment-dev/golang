@@ -2,7 +2,7 @@ package apijson
 
 import (
 	"errors"
-	"github.com/stainless-sdks/fragment-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
 	"reflect"
 
 	"github.com/tidwall/gjson"

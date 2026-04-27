@@ -1,7 +1,7 @@
 package apiform
 
 import (
-	"github.com/stainless-sdks/fragment-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
 	"mime/multipart"
 	"reflect"
 )
