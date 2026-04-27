@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/stainless-sdks/fragment-go/internal/requestconfig"
-	"github.com/stainless-sdks/fragment-go/option"
+	"github.com/fragment-dev/fragment-billing-go/internal/requestconfig"
+	"github.com/fragment-dev/fragment-billing-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

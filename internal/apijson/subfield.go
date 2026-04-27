@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/fragment-go/packages/respjson"
+	"github.com/fragment-dev/fragment-billing-go/packages/respjson"
 	"reflect"
 )
 

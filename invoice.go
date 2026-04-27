@@ -11,11 +11,11 @@ import (
 	"slices"
 	"time"
 
-	"github.com/stainless-sdks/fragment-go/internal/apijson"
-	"github.com/stainless-sdks/fragment-go/internal/requestconfig"
-	"github.com/stainless-sdks/fragment-go/option"
-	"github.com/stainless-sdks/fragment-go/packages/param"
-	"github.com/stainless-sdks/fragment-go/packages/respjson"
+	"github.com/fragment-dev/fragment-billing-go/internal/apijson"
+	"github.com/fragment-dev/fragment-billing-go/internal/requestconfig"
+	"github.com/fragment-dev/fragment-billing-go/option"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/packages/respjson"
 )
 
 // Invoice management operations

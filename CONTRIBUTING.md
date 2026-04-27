@@ -41,7 +41,7 @@ To use a local version of this library from source in another project, edit the 
 directive. This can be done through the CLI with the following:
 
 ```sh
-$ go mod edit -replace github.com/stainless-sdks/fragment-go=/path/to/fragment-go
+$ go mod edit -replace github.com/fragment-dev/fragment-billing-go=/path/to/fragment-billing-go
 ```
 
 ## Running tests

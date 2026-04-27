@@ -2,7 +2,7 @@ package param_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/fragment-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
 	"testing"
 )
 

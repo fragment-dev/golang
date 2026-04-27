@@ -2,7 +2,7 @@ package apiform
 
 import (
 	"bytes"
-	"github.com/stainless-sdks/fragment-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
 	"io"
 	"mime/multipart"
 	"strings"

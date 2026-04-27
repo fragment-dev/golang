@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/fragment-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/fragment-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/internal/encoding/json/sentinel"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
 	"reflect"
 	"slices"
 	"testing"

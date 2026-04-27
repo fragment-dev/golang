@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/fragment-go"
-	"github.com/stainless-sdks/fragment-go/internal"
-	"github.com/stainless-sdks/fragment-go/option"
+	"github.com/fragment-dev/fragment-billing-go"
+	"github.com/fragment-dev/fragment-billing-go/internal"
+	"github.com/fragment-dev/fragment-billing-go/option"
 )
 
 type closureTransport struct {

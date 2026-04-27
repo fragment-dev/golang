@@ -3,8 +3,8 @@
 package fragment
 
 import (
-	"github.com/stainless-sdks/fragment-go/internal/apierror"
-	"github.com/stainless-sdks/fragment-go/packages/param"
+	"github.com/fragment-dev/fragment-billing-go/internal/apierror"
+	"github.com/fragment-dev/fragment-billing-go/packages/param"
 )
 
 // aliased to make [param.APIUnion] private when embedding
