@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/fragment-dev/fragment-billing-go/internal/encoding/json/sentinel"
+	"github.com/fragment-dev/golang/internal/encoding/json/sentinel"
 	"reflect"
 )
 

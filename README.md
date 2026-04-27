@@ -2,7 +2,7 @@
 
 <!-- x-release-please-start-version -->
 
-<a href="https://pkg.go.dev/github.com/fragment-dev/fragment-billing-go"><img src="https://pkg.go.dev/badge/github.com/fragment-dev/fragment-billing-go.svg" alt="Go Reference"></a>
+<a href="https://pkg.go.dev/github.com/fragment-dev/golang"><img src="https://pkg.go.dev/badge/github.com/fragment-dev/golang.svg" alt="Go Reference"></a>
 
 <!-- x-release-please-end -->
 
@@ -17,7 +17,7 @@ It is generated with [Stainless](https://www.stainless.com/).
 
 ```go
 import (
-	"github.com/fragment-dev/fragment-billing-go" // imported as fragment
+	"github.com/fragment-dev/golang" // imported as fragment
 )
 ```
 
@@ -28,7 +28,7 @@ Or to pin the version:
 <!-- x-release-please-start-version -->
 
 ```sh
-go get -u 'github.com/fragment-dev/fragment-billing-go@v0.0.2'
+go get -u 'github.com/fragment-dev/golang@v0.0.2'
 ```
 
 <!-- x-release-please-end -->
@@ -48,8 +48,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/fragment-dev/fragment-billing-go"
-	"github.com/fragment-dev/fragment-billing-go/option"
+	"github.com/fragment-dev/golang"
+	"github.com/fragment-dev/golang/option"
 )
 
 func main() {
@@ -280,7 +280,7 @@ client.ExternalAccounts.New(context.TODO(), ...,
 
 The request option `option.WithDebugLog(nil)` may be helpful while debugging.
 
-See the [full list of request options](https://pkg.go.dev/github.com/fragment-dev/fragment-billing-go/option).
+See the [full list of request options](https://pkg.go.dev/github.com/fragment-dev/golang/option).
 
 ### Pagination
 
@@ -498,7 +498,7 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 
 We take backwards-compatibility seriously and work hard to ensure you can rely on a smooth upgrade experience.
 
-We are keen for your feedback; please open an [issue](https://www.github.com/fragment-dev/fragment-billing-go/issues) with questions, bugs, or suggestions.
+We are keen for your feedback; please open an [issue](https://www.github.com/fragment-dev/golang/issues) with questions, bugs, or suggestions.
 
 ## Contributing
 

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fragment-dev/fragment-billing-go/packages/param"
+	"github.com/fragment-dev/golang/packages/param"
 )
 
 var encoders sync.Map // map[reflect.Type]encoderFunc

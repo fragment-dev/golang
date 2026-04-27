@@ -3,7 +3,7 @@
 package fragment
 
 import (
-	"github.com/fragment-dev/fragment-billing-go/option"
+	"github.com/fragment-dev/golang/option"
 )
 
 // ExperimentalService contains methods and other services that help with

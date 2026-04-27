@@ -2,8 +2,8 @@ package apijson_test
 
 import (
 	"encoding/json"
-	"github.com/fragment-dev/fragment-billing-go/internal/apijson"
-	"github.com/fragment-dev/fragment-billing-go/packages/respjson"
+	"github.com/fragment-dev/golang/internal/apijson"
+	"github.com/fragment-dev/golang/packages/respjson"
 	"testing"
 )
 

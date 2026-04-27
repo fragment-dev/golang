@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/fragment-dev/fragment-billing-go/internal/encoding/json"
+	shimjson "github.com/fragment-dev/golang/internal/encoding/json"
 	"time"
 )
 
