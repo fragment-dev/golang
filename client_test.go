@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fragment-dev/fragment-billing-go"
-	"github.com/fragment-dev/fragment-billing-go/internal"
-	"github.com/fragment-dev/fragment-billing-go/option"
+	"github.com/fragment-dev/golang"
+	"github.com/fragment-dev/golang/internal"
+	"github.com/fragment-dev/golang/option"
 )
 
 type closureTransport struct {

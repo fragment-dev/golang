@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fragment-dev/fragment-billing-go/packages/param"
+	"github.com/fragment-dev/golang/packages/param"
 )
 
 type Struct struct {

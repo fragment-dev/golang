@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/fragment-dev/fragment-billing-go/internal/apijson"
-	"github.com/fragment-dev/fragment-billing-go/packages/respjson"
+	"github.com/fragment-dev/golang/internal/apijson"
+	"github.com/fragment-dev/golang/packages/respjson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is
