@@ -3,8 +3,8 @@ package respjson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/fragment-go/internal/apijson"
-	rj "github.com/stainless-sdks/fragment-go/packages/respjson"
+	"github.com/fragment-dev/fragment-billing-go/internal/apijson"
+	rj "github.com/fragment-dev/fragment-billing-go/packages/respjson"
 	"reflect"
 	"testing"
 )

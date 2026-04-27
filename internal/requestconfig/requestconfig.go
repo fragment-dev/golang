@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/fragment-go/internal"
-	"github.com/stainless-sdks/fragment-go/internal/apierror"
-	"github.com/stainless-sdks/fragment-go/internal/apiform"
-	"github.com/stainless-sdks/fragment-go/internal/apiquery"
+	"github.com/fragment-dev/fragment-billing-go/internal"
+	"github.com/fragment-dev/fragment-billing-go/internal/apierror"
+	"github.com/fragment-dev/fragment-billing-go/internal/apiform"
+	"github.com/fragment-dev/fragment-billing-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

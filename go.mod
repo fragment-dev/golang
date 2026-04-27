@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/fragment-go
+module github.com/fragment-dev/fragment-billing-go
 
 go 1.22
 

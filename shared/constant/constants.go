@@ -3,7 +3,7 @@
 package constant
 
 import (
-	shimjson "github.com/stainless-sdks/fragment-go/internal/encoding/json"
+	shimjson "github.com/fragment-dev/fragment-billing-go/internal/encoding/json"
 )
 
 type Constant[T any] interface {
