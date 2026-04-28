@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0 (2026-04-28)
+
+Full Changelog: [v0.0.3...v0.1.0](https://github.com/fragment-dev/golang/compare/v0.0.3...v0.1.0)
+
+### Features
+
+* support setting headers via env ([b87e502](https://github.com/fragment-dev/golang/commit/b87e502f6a778641feb8314f6be7f8712d0908b5))
+
+
+### Chores
+
+* **internal:** codegen related update ([665004b](https://github.com/fragment-dev/golang/commit/665004b54e10bc028f237d69da363ad8ca2eb3f6))
+
 ## 0.0.3 (2026-04-27)
 
 Full Changelog: [v0.0.2...v0.0.3](https://github.com/fragment-dev/golang/compare/v0.0.2...v0.0.3)
